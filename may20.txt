@@ -1,3 +1,7 @@
 this is my git class
 we are learning sql.
+<<<<<<< HEAD
 change
+=======
+test file
+>>>>>>> 74352735682a15e2c6d925185b039d99b1bb701a
